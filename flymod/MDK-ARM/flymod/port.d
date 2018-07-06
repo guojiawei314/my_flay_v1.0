@@ -1,0 +1,13 @@
+flymod\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+flymod\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+flymod\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+flymod\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+flymod\port.o: ../Core/Inc/FreeRTOSConfig.h
+flymod\port.o: ../Core/Inc/main.h
+flymod\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+flymod\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+flymod\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+flymod\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+flymod\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+flymod\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+flymod\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
